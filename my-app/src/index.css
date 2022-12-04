@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.accordion-button::after{
+    filter: invert(1);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    margin: 0;
+    /* background-color: #d7e1db; */
+}
